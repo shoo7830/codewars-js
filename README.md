@@ -1,1 +1,3 @@
-# codewars-js
+# codewars
+
+* https://www.codewars.com

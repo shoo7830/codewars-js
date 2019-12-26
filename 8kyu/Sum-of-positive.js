@@ -24,3 +24,6 @@ function positiveSum(arr) {
    return arr.reduce((a,b)=> a + (b > 0 ? b : 0),0);
 }
 
+// ES6+ 로 더 간단하게
+
+const positiveSum = (arr) => arr.reduce((sum, n) => n > 0 ? sum + n : sum, 0);

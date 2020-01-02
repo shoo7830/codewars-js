@@ -6,11 +6,11 @@
 
 // For example:
 
-time = 3 ----> litres = 1
+// time = 3 ----> litres = 1
 
-time = 6.7---> litres = 3
+// time = 6.7---> litres = 3
 
-time = 11.8--> litres = 5
+// time = 11.8--> litres = 5
 
 // 내 답변
 // 시간마다 0.5리터를 마시니까 당연히 시간으로 곱하고, 

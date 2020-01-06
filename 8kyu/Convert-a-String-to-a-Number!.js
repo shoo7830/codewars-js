@@ -1,4 +1,4 @@
-// Note: This kata is inspired by [Convert a Number to a String!](https://github.com/shoo7830/codewars-js/blob/master/8kyu/Convert-a-Number-to-a-String.js). Try that one too.
+// Note: This kata is inspired by Convert a Number to a String!(https://github.com/shoo7830/codewars-js/blob/master/8kyu/Convert-a-Number-to-a-String.js). Try that one too.
 
 // Description
 // We need a function that can transform a string into a number. What ways of achieving this do you know?

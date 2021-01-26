@@ -16,6 +16,8 @@ Output string must be two numbers separated by a single space, and highest numbe
 // 배열의 첫번째 인덱스가 가장 작은 값, 배열의 마지막 인덱스가 가장 큰 값이다.
 // 두 값을 변수선언해서 마지막에 문자열을 합쳐주고 리턴한다.
 
+// 고쳐야 할 습관: 쌍따옴표 말고 홑따옴표, 배열 변환할때 map 사용할 것, 변수 적당히 선언할 것
+
 function highAndLow(numbers){
   let newArr = numbers.split(" ");
   newArr.sort((a, b) => {

@@ -39,7 +39,8 @@ function DNAStrand(dna) {
 }
 
 // 베스트 답변
-// 정규표현식으로 해결, 
+// 정규표현식으로 해결, /./ 는 개행 문자를 제외한 모든 단일 문자와 대응,
+
 function DNAStrand(dna) {
     return dna.replace(/./g, function (c) {
         return DNAStrand.pairs[c]
